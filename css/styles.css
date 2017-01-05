@@ -1,0 +1,28 @@
+body {
+  background-color: #F4F4F4;
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#nav-pane ul {
+  list-style: none;
+}
+
+.logo-name {
+  font-family: serif;
+  font-variant: small-caps;
+}
+
+.motto {
+  font-family: serif;
+}
+
+.nav-sec {
+  border-bottom: 1px solid gray;
+  border-color: gray;
+}
