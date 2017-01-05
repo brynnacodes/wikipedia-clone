@@ -9,6 +9,10 @@ body {
   margin-right: 0;
 }
 
+#nav-pane {
+  border: 1px solid red;
+}
+
 #nav-pane ul {
   list-style: none;
 }
@@ -30,4 +34,24 @@ body {
 .nav-heading {
   font-size: 14pt;
   color: gray;
+}
+
+#main {
+  border: 1px solid green;
+}
+
+#left-main {
+  border: 1px solid purple;
+}
+
+#right-main {
+  border: 1px solid orange;
+}
+
+#featured-pic {
+  display: block; 
+}
+
+#picture-bottom p {
+  display: inline;
 }
