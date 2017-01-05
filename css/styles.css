@@ -26,3 +26,8 @@ body {
   border-bottom: 1px solid gray;
   border-color: gray;
 }
+
+.nav-heading {
+  font-size: 14pt;
+  color: gray;
+}
